@@ -17,6 +17,7 @@ h1, h2, h3 {
 
 h1 {
     font-size: 4.4rem;
+    color: white;
 }
 
 h2 {
@@ -66,4 +67,12 @@ a {
     max-width: 100px;
     height: auto;
     margin-bottom: 1rem;
+}
+
+.background-fondo {
+    background-color: #212529;
+}
+
+.color-section {
+    color:white;
 }
